@@ -5,4 +5,4 @@ El curso introduce conocimientos sobre la implementación de algoritmos de intel
 * Challenge 1: Limpieza y tratamiento de datos de una base de diabetes
 * Challenge 2: Aplicación del modelo de regresión lineal para una base de datos de automóviles
 * Challenge 3: Aplicación del modelo de clasificiación (KNN) para una base de datos de sideróforos
-* Challenge 3: Aplicación del modelo de clasificiación (Random Forest) con ensemble para una base de datos de señales tipo EDA
+* Challenge 4: Aplicación del modelo de clasificiación (Random Forest) con ensemble para una base de datos de señales tipo EDA
